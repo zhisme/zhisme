@@ -1,16 +1,14 @@
-## Hi there 👋
+# Pragmatic Software Engineer
+[zhisme.com](https://zhisme.com)
 
-<!--
-**zhisme/zhisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Strong experience in **Ruby** and *Go*
+- Team leader
+- Focused on pragmatic, results-oriented software delivery
+- See open-source projects for portfolio highlights
+- Check out my [blog](https://zhisme.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Find me at:**
+- Blog: [zhisme.com](https://zhisme.com)
+- X (Twitter): [@_zhisme](https://x.com/_zhisme)
+- LinkedIn: [linkedin.com/in/zhisme](https://www.linkedin.com/in/zhisme/)
+- Stack Overflow: [zhisme](https://stackoverflow.com/users/5347939/zhisme)
