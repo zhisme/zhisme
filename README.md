@@ -12,3 +12,4 @@
 - X (Twitter): [@_zhisme](https://x.com/_zhisme)
 - LinkedIn: [linkedin.com/in/zhisme](https://www.linkedin.com/in/zhisme/)
 - Stack Overflow: [zhisme](https://stackoverflow.com/users/5347939/zhisme)
+- Telegram channel [signal over noise](https://t.me/zhisme_ch)
