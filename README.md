@@ -1,7 +1,7 @@
 # Pragmatic Software Engineer
 [zhisme.com](https://zhisme.com)
 
-- Strong experience in **Ruby** and *Go*
+- Strong experience in backend, using **Ruby**
 - Team leader
 - Focused on pragmatic, results-oriented software delivery
 - See open-source projects for portfolio highlights
